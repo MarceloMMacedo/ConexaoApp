@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "96eM+o2yB3EYFNyCmfbluHkzMI21z8gKifpK3twBf+E0ddkIIq/HZk3aAa4dahGWdKTkdSDv7X21cNZ/WiG3yw==",
+  "success": true,
+  "projectFilePath": "D:\\desenvolvimento\\DotNet\\ConexaoApp\\ConexaoApp.Execption\\ConexaoApp.Execption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.4\\microsoft.aspnetcore.jsonpatch.8.0.4.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.4\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.4.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\bin\Debug\net8.0\ConexaoCoreDB.CrossCutting.deps.json
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\bin\Debug\net8.0\ConexaoCoreDB.CrossCutting.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\bin\Debug\net8.0\ConexaoCoreDB.CrossCutting.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\bin\Debug\net8.0\ConexaoCoreDB.Infrastructure.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\bin\Debug\net8.0\ConexaoCoreDB.Infrastructure.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoCoreDB.CrossCutting.csproj.AssemblyReference.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoCoreDB.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoCoreDB.CrossCutting.AssemblyInfoInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoCoreDB.CrossCutting.AssemblyInfo.cs
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoCoreDB.CrossCutting.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoC.FCC51BC9.Up2Date
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoCoreDB.CrossCutting.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\refint\ConexaoCoreDB.CrossCutting.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ConexaoCoreDB.CrossCutting.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.CrossCutting\obj\Debug\net8.0\ref\ConexaoCoreDB.CrossCutting.dll

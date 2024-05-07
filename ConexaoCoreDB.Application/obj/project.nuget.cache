@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IE0/miajIGTTe17NNXg9nDCqgQSZ4SSz8KbMEBJC+GzOkh/u+nVxwcIL9PmrjURfAKFLO9ClkKxC/l6QZqp9jw==",
+  "success": true,
+  "projectFilePath": "D:\\desenvolvimento\\DotNet\\ConexaoApp\\ConexaoCoreDB.Application\\ConexaoCoreDB.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

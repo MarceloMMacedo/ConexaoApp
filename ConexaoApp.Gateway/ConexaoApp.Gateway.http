@@ -1,0 +1,6 @@
+@ConexaoApp.Gateway_HostAddress = http://localhost:5132
+
+GET {{ConexaoApp.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

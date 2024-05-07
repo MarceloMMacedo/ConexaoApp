@@ -1,0 +1,6 @@
+@ConexaoApp.SyncRegistry_HostAddress = http://localhost:5219
+
+GET {{ConexaoApp.SyncRegistry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

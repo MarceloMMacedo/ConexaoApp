@@ -1,0 +1,12 @@
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\bin\Debug\net8.0\ConexaoCoreDB.Infrastructure.deps.json
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\bin\Debug\net8.0\ConexaoCoreDB.Infrastructure.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\bin\Debug\net8.0\ConexaoCoreDB.Infrastructure.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ConexaoCoreDB.Infrastructure.csproj.AssemblyReference.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ConexaoCoreDB.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ConexaoCoreDB.Infrastructure.AssemblyInfoInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ConexaoCoreDB.Infrastructure.AssemblyInfo.cs
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ConexaoCoreDB.Infrastructure.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ConexaoCoreDB.Infrastructure.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\refint\ConexaoCoreDB.Infrastructure.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ConexaoCoreDB.Infrastructure.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCore.Infrastructure\obj\Debug\net8.0\ref\ConexaoCoreDB.Infrastructure.dll

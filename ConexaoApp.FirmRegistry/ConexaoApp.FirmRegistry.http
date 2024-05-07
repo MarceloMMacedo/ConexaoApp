@@ -1,0 +1,6 @@
+@ConexaoApp.FirmRegistry_HostAddress = http://localhost:5251
+
+GET {{ConexaoApp.FirmRegistry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

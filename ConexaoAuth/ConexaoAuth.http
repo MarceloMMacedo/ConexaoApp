@@ -1,0 +1,6 @@
+@ConexaoAuth_HostAddress = http://localhost:5063
+
+GET {{ConexaoAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

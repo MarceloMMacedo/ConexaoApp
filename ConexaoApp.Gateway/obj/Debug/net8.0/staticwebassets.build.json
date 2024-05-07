@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kMXv4/RM4o4xwB5I/wRrA6dh1jb98oZB6+WqpPw6WX8=",
+  "Source": "ConexaoApp.Gateway",
+  "BasePath": "_content/ConexaoApp.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

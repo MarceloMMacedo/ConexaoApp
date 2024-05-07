@@ -1,0 +1,12 @@
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\bin\Debug\net8.0\ConexaoApp.Execption.deps.json
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\bin\Debug\net8.0\ConexaoApp.Execption.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\bin\Debug\net8.0\ConexaoApp.Execption.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ConexaoApp.Execption.csproj.AssemblyReference.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ConexaoApp.Execption.GeneratedMSBuildEditorConfig.editorconfig
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ConexaoApp.Execption.AssemblyInfoInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ConexaoApp.Execption.AssemblyInfo.cs
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ConexaoApp.Execption.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ConexaoApp.Execption.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\refint\ConexaoApp.Execption.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ConexaoApp.Execption.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Execption\obj\Debug\net8.0\ref\ConexaoApp.Execption.dll

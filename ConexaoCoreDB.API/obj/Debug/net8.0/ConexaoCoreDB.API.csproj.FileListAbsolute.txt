@@ -1,0 +1,12 @@
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\bin\Debug\net8.0\ConexaoCoreDB.API.deps.json
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\bin\Debug\net8.0\ConexaoCoreDB.API.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\bin\Debug\net8.0\ConexaoCoreDB.API.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ConexaoCoreDB.API.csproj.AssemblyReference.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ConexaoCoreDB.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ConexaoCoreDB.API.AssemblyInfoInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ConexaoCoreDB.API.AssemblyInfo.cs
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ConexaoCoreDB.API.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ConexaoCoreDB.API.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\refint\ConexaoCoreDB.API.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ConexaoCoreDB.API.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoCoreDB.API\obj\Debug\net8.0\ref\ConexaoCoreDB.API.dll

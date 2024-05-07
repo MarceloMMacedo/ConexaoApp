@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yA0WTsuc5KBpFYVsc2NyfOBR6zkf8Y5G/VltSP5B/OE=",
+  "Source": "ConexaoApp.SyncRegistry",
+  "BasePath": "_content/ConexaoApp.SyncRegistry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

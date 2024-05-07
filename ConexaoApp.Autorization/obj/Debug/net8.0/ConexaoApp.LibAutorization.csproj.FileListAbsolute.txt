@@ -1,0 +1,12 @@
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\bin\Debug\net8.0\ConexaoApp.LibAutorization.deps.json
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\bin\Debug\net8.0\ConexaoApp.LibAutorization.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\bin\Debug\net8.0\ConexaoApp.LibAutorization.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ConexaoApp.LibAutorization.csproj.AssemblyReference.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ConexaoApp.LibAutorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ConexaoApp.LibAutorization.AssemblyInfoInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ConexaoApp.LibAutorization.AssemblyInfo.cs
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ConexaoApp.LibAutorization.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ConexaoApp.LibAutorization.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\refint\ConexaoApp.LibAutorization.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ConexaoApp.LibAutorization.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Autorization\obj\Debug\net8.0\ref\ConexaoApp.LibAutorization.dll
