@@ -1,4 +1,5 @@
 ﻿
+using ConexaoApp.Criptografia.Interfaces;
 using ConexaoAuth.DTOs;
 using ConexaoAuth.Models;
 using ConexaoAuth.Services;
@@ -19,18 +20,21 @@ public class AuthController : ControllerBase
     private readonly RoleManager<IdentityRole> _roleManager;
     private readonly IConfiguration _configuration;
     private readonly ILogger<AuthController> _logger;
+    private readonly ICriptoComponente _criptoComponente;
 
     public AuthController(ITokenService tokenService,
                           UserManager<ApplicationUser> userManager,
                           RoleManager<IdentityRole> roleManager,
                           IConfiguration configuration,
-                          ILogger<AuthController> logger)
+                          ILogger<AuthController> logger,
+                          ICriptoComponente criptoComponente  )
     {
         _tokenService = tokenService;
         _userManager = userManager;
         _roleManager = roleManager;
         _configuration = configuration;
         _logger = logger;
+        _criptoComponente = criptoComponente;
     }
 
     [HttpPost]
@@ -106,6 +110,7 @@ public class AuthController : ControllerBase
                 new Claim(ClaimTypes.Name, user.UserName!),
                 new Claim(ClaimTypes.Email, user.Email!),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim("Hash",    Convert.ToBase64String(_criptoComponente.GerarChaveCriptografia())),
             };
 
             foreach (var userRole in userRoles)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConexaoCoreDB.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+600a599a1b0af074b58e4564a9667c341d30dc67")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConexaoCoreDB.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConexaoCoreDB.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

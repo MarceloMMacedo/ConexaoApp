@@ -123,3 +123,5 @@ D:\desenvolvimento\DotNet\ConexaoApp\ConexaoAuth\obj\Debug\net8.0\refint\Conexao
 D:\desenvolvimento\DotNet\ConexaoApp\ConexaoAuth\obj\Debug\net8.0\ConexaoApp.Autorization.pdb
 D:\desenvolvimento\DotNet\ConexaoApp\ConexaoAuth\obj\Debug\net8.0\ConexaoApp.Autorization.genruntimeconfig.cache
 D:\desenvolvimento\DotNet\ConexaoApp\ConexaoAuth\obj\Debug\net8.0\ref\ConexaoApp.Autorization.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoAuth\bin\Debug\net8.0\ConexaoApp.Criptografia.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoAuth\bin\Debug\net8.0\ConexaoApp.Criptografia.pdb

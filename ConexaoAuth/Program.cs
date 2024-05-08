@@ -1,3 +1,5 @@
+using ConexaoApp.Criptografia.Interfaces;
+using ConexaoApp.Criptografia.Services;
 using ConexaoAuth.Context;
 using ConexaoAuth.Models;
 using ConexaoAuth.Services;
@@ -94,7 +96,7 @@ builder.Services.AddAuthentication(options =>
 //                                           || context.User.IsInRole("SuperAdmin")));
 //});
 builder.Services.AddScoped<ITokenService, TokenService>();
-
+builder.Services.AddScoped<ICriptoComponente, CriptoComponente>();
 
 var app = builder.Build();
 
