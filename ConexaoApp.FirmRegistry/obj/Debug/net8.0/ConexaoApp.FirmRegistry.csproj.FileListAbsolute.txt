@@ -251,3 +251,13 @@ D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\ru
 D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\ConexaoApp.Criptografia.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\ConexaoApp.Criptografia.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.FirmRegistry\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

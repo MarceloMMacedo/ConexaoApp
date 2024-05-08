@@ -1,0 +1,12 @@
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\bin\Debug\net8.0\ConexaoApp.Criptografia.deps.json
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\bin\Debug\net8.0\ConexaoApp.Criptografia.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\bin\Debug\net8.0\ConexaoApp.Criptografia.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ConexaoApp.Criptografia.csproj.AssemblyReference.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ConexaoApp.Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ConexaoApp.Criptografia.AssemblyInfoInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ConexaoApp.Criptografia.AssemblyInfo.cs
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ConexaoApp.Criptografia.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ConexaoApp.Criptografia.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\refint\ConexaoApp.Criptografia.dll
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ConexaoApp.Criptografia.pdb
+D:\desenvolvimento\DotNet\ConexaoApp\ConexaoApp.Criptografia\obj\Debug\net8.0\ref\ConexaoApp.Criptografia.dll

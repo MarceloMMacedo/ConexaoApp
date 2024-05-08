@@ -25,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ConexaoApp.Criptografia\ConexaoApp.Criptografia.csproj" />
     <ProjectReference Include="..\ConexaoApp.Execption\ConexaoApp.Execption.csproj" />
     <ProjectReference Include="..\ConexaoCore.Domain\ConexaoCoreDB.Domain.csproj" />
     <ProjectReference Include="..\ConexaoCore.Infrastructure\ConexaoCoreDB.Infrastructure.csproj" />
