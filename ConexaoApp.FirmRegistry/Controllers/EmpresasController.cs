@@ -39,17 +39,19 @@ public class EmpresasController : ControllerBase
     }
     [HttpGet]
     public string GetKey()
-    {return Convert.ToBase64String(_criptoComponente.GerarChaveCriptografia());
+    {return _criptoComponente.GerarChaveCriptografiaToString() ;
     }
-    [CriptoAdEncoded(EncodedRequest = false, EncodedResponse = true)]
+    [CriptoAdEncoded(EncodedRequest = true, EncodedResponse = false)]
     [HttpPost("criptografar")]
-    public String Criptografar(EmpresaDto dto)
+    public EmpresaDto Criptografar(EmpresaDto dto)
     {
         byte[] bytes = _criptoComponente.GerarChaveCriptografia();
        string criptografia = _criptoComponente.Criptografar(dto.Tipo, bytes);
         Console.WriteLine(criptografia);
         string decriptografia = _criptoComponente.Descriptografar(criptografia, bytes);
         Console.WriteLine(decriptografia);
-        return decriptografia;
+        //gerar uuid 
+        dto.EmpresaId = Guid.NewGuid().ToString();
+        return dto;
     }
 }

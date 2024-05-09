@@ -784,7 +784,8 @@
       "ConexaoApp.Criptografia/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
-          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0"
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "ConexaoApp.Criptografia.dll": {}

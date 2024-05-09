@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConexaoCoreDB.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+600a599a1b0af074b58e4564a9667c341d30dc67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a74d25f9b7cebed3f96a44a97e3a558a1aaae2df")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConexaoCoreDB.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConexaoCoreDB.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

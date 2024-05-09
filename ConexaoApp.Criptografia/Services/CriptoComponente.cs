@@ -1,5 +1,6 @@
 ﻿using ConexaoApp.Criptografia.Interfaces;
 using System.Security.Cryptography;
+using System.Text;
 
 namespace ConexaoApp.Criptografia.Services;
 
@@ -39,7 +40,7 @@ public class CriptoComponente : ICriptoComponente
     public string Descriptografar(string textoCriptografado, byte[] chave)
     {
         byte[] fullCipher = Convert.FromBase64String(textoCriptografado);
-
+         
         byte[] iv = new byte[16];
         byte[] cipher = new byte[fullCipher.Length - iv.Length];
 
@@ -59,7 +60,8 @@ public class CriptoComponente : ICriptoComponente
                 {
                     using (StreamReader srDecrypt = new StreamReader(csDecrypt))
                     {
-                        return srDecrypt.ReadToEnd();
+                        string result = srDecrypt.ReadToEnd();
+                        return result    ;
                     }
                 }
             }
@@ -69,10 +71,41 @@ public class CriptoComponente : ICriptoComponente
 
     public byte[] GerarChaveCriptografia()
     {
-        using (Aes aes = Aes.Create())
-        {
-            aes.GenerateKey();
-            return aes.Key;
-        }
+        Aes aes = Aes.Create();
+        aes.KeySize = 256;
+        aes.GenerateIV();
+        aes.GenerateKey();
+        var encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
+        return aes.Key;
+
+    }
+    public string GerarChaveCriptografiaToString()
+    {
+        Aes aes = Aes.Create(); 
+        aes.KeySize = 256;
+        aes.GenerateIV();
+        aes.GenerateKey();
+       var encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
+        return encryptor == null ? string.Empty : Convert.ToBase64String(aes.Key);
+        //using (AesCryptoServiceProvider aes = new AesCryptoServiceProvider())
+        //{
+        //    aes.KeySize = 128;  // Define o tamanho da chave para 128 bits
+        //    aes.GenerateKey();  // Gera a chave
+
+        //    // Verifica se o comprimento da chave é 16 bytes
+        //    if (aes.Key.Length == 16)
+        //    {
+        //        // Imprime a chave em formato hexadecimal
+        //        Console.WriteLine("Chave AES de 128 bits:");
+        //        Console.WriteLine(BitConverter.ToString(aes.Key).Replace("-", ""));
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("O comprimento da chave não é 16 bytes.");
+        //    }
+        //    byte[] chaveBytes = aes.Key;
+        //    string chave = Convert.ToBase64String(chaveBytes);
+        //    return chave;
+        //}
     }
 }
